@@ -1,7 +1,7 @@
 name                'cis_policy_inetd_services'
 maintainer          'Akash Siddharth'
 maintainer_email    'akashsiddharth@knights.ucf.edu'
-license             'Apache 2.0'
+license             'GNU General Public License v3.0'
 description         'Enforces the CIS inetd service benchmarks'
 version             '0.1.0'
 chef_version        '>= 14.0'
