@@ -3,7 +3,7 @@
 # For more information on the Policyfile feature, visit
 # https://docs.chef.io/policyfile.html
 
-# A name that describes what the system you're building with Chef does.
+# A name that describes what the system you're building with Chef does
 name 'cis_policy_inetd_services'
 
 # Where to find external cookbooks:
