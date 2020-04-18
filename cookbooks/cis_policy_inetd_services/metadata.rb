@@ -7,6 +7,6 @@ version             '0.1.0'
 chef_version        '>= 14.0'
 source_url          'https://github.com/AkashSiddharth/ChefWorkspace/tree/Dev/cookbooks/cis_policy_inetd_services'
 issues_url          'https://github.com/AkashSiddharth/ChefWorkspace/tree/Dev/cookbooks/cis_policy_inetd_services/issues'
-platforms           {'debian'}
+platforms           { 'debian' }
 
 supports            'ubuntu'

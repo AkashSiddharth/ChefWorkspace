@@ -1,0 +1,11 @@
+{
+  "name": "cis",
+  "environment": "dev",
+  "json_class": "Chef::Role",
+  "run_list": ["recipe[cis_policy_inetd_services]"],
+  "description": "Nodes assigned under this role, will have CIS policies in their default runlist",
+  "chef_type": "role",
+  "default_attributes": {},
+  "override_attributes": {},
+  "env_run_lists": {}
+}
